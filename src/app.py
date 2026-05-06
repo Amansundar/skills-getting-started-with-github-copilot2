@@ -63,12 +63,6 @@ activities = {
         "max_participants": 15,
         "participants": ["noah@mergington.edu"]
     },
-    "Debate Club": {
-        "description": "Practice public speaking and argumentation",
-        "schedule": "Wednesdays, 3:30 PM - 4:30 PM",
-        "max_participants": 12,
-        "participants": ["isabella@mergington.edu"]
-    },
     "Science Club": {
         "description": "Conduct experiments and learn about science",
         "schedule": "Thursdays, 3:00 PM - 4:30 PM",
